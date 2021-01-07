@@ -1,0 +1,62 @@
+body {
+    background-image: url(../images/TNLogoBG.png);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #ad2d2d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 1px 0 15px 0;
+    color: white;
+}
+
+h1 {
+    margin: 50px 0 0 0;
+}
+
+.logo {
+    width: 8%;
+    height: 8%;    
+    margin: 10px 50px;
+}
+
+ul {
+    font-size: 18px;
+}
+
+.imagediv {
+    padding: 25px 0 20px 20px;
+}
+
+.coopersface {
+    width: 13%;
+    height: auto;
+}
+
+h2 {
+    padding: 0 15px;
+}
+
+.rep__links {
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    padding: 3px 15px;
+}
+
+.rep__links {
+    padding: 0 0 20px 0;
+}
+
+footer {
+    background-color: #b5b5b5;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 22px;
+}
